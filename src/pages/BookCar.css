@@ -1,0 +1,10 @@
+.book-car { padding: 24px 20px; }
+.book-car h1 { margin-bottom: 20px; color: var(--text); }
+.balance-bar { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; margin-bottom: 24px; }
+.balance-bar .ok { color: var(--success); }
+.balance-bar .insufficient { color: var(--danger); }
+.book-form h2 { font-size: 1.2rem; margin-bottom: 16px; color: var(--text); }
+.hint { font-size: 0.95rem; color: var(--text-muted); margin-bottom: 16px; }
+.form-row { display: flex; flex-wrap: wrap; gap: 16px; margin-bottom: 20px; }
+.form-row .input-group { flex: 1; min-width: 180px; }
+.btn-lg { padding: 16px 32px; font-size: 1.1rem; margin-top: 8px; }
